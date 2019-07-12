@@ -19,4 +19,4 @@ Presentation_Electricity_rates
 https://github.com/megiza/Project_ElectricityRates/blob/master/Presentation_Electricity_Price_prediction.pdf
 
 Final Report in pdf:
-
+https://github.com/megiza/Project_ElectricityRates/blob/master/Final%20Report.pdf
