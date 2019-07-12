@@ -10,7 +10,7 @@ https://github.com/megiza/Project_ElectricityRates/blob/master/Project%201_Part2
 Project1_Part3. Exploratory Data Analysis
 https://github.com/megiza/Project_ElectricityRates/blob/master/Project1_Part3.ipynb
 
-Project1_Part4. Exploratory Data Analysis
+Project1_Part4. Machine Learning
 http://localhost:8888/notebooks/Documents/Python/Springboard/CourseCurriculum/FirstCapstoneProject/Project1_Part4.ipynb
 
 Presentation in pdf:
