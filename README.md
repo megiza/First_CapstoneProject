@@ -14,8 +14,6 @@ Project1_Part4. Exploratory Data Analysis
 http://localhost:8888/notebooks/Documents/Python/Springboard/CourseCurriculum/FirstCapstoneProject/Project1_Part4.ipynb
 
 Presentation in pdf:
-
-Presentation_Electricity_rates
 https://github.com/megiza/Project_ElectricityRates/blob/master/Presentation_Electricity_Price_prediction.pdf
 
 Final Report in pdf:
